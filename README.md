@@ -7,7 +7,7 @@ Esto es un recopilatorio sobre como crear una Virtual Machine en Azure, y ademá
 ---
 
 ## Requisitos
-- Cuenta en [Microsoft Azure](portal.azure.com)
+- Cuenta en [Microsoft Azure](https://portal.azure.com)
 - Un dispositivo, por ejemplo una computadora
 - Acceso a internet
 
@@ -15,7 +15,7 @@ Esto es un recopilatorio sobre como crear una Virtual Machine en Azure, y ademá
 
 ## Pasos a seguir
 
-- Primero entramos en [Microsoft Azure](portal.azure.com), y nos vamos al apartado de Virtual Machines.
+- Primero entramos en [Microsoft Azure](https://portal.azure.com), y nos vamos al apartado de Virtual Machines.
 ![P1](https://github.com/DagonNR/VM-dentro-de-una-VM/blob/main/imagenes/P1.png)
 
 - Luego creamos lo que sería la primera Virtual Machine, en el apartado de "Crear".
