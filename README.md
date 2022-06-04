@@ -15,7 +15,7 @@ Esto es un recopilatorio sobre como crear una Virtual Machine en Azure, y ademá
 ---
 
 ## Importante
-- Las Virtual Machine de Azure cobran por hora, no es una cantidad demasiado grande, pero es importante tenerlo en cuenta por si creas una, para deterla cuando no se este usando
+- Las Virtual Machine de Azure cobran por hora, no es una cantidad demasiado grande, pero es importante tenerlo en cuenta por si creas una, para deterla cuando no se este usando.
 
 ---
 
